@@ -1,2 +1,4 @@
 Files Path in web dev 
 
+./ - to use the files inside the folder
+../ - to use the files outside / above that folder 
