@@ -1,4 +1,15 @@
+8 Sept 2023 
+To create a multi-page website 
+
 Files Path in web dev 
 
 ./ - to use the files inside the folder
-../ - to use the files outside / above that folder 
+../ - to use the files outside/above that folder 
+
+Web Pages - it is used to create multi-page website 
+
+To add HTML page link it works the same as adding image by ./
+We can also add a link in images by using anchor tag with img tag as a button 
+
+HTML Boilerplate - To give more structure to our HTML files 
+Boiler template has a proper indentation for easy understanding 
