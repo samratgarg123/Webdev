@@ -6,10 +6,21 @@ Files Path in web dev
 ./ - to use the files inside the folder
 ../ - to use the files outside/above that folder 
 
-Web Pages - it is used to create multi-page website 
+Web Pages - it is used to create a multi-page website 
 
 To add HTML page link it works the same as adding image by ./
 We can also add a link in images by using anchor tag with img tag as a button 
 
 HTML Boilerplate - To give more structure to our HTML files 
 Boiler template has a proper indentation for easy understanding 
+
+9 Sept 2023 
+Portfolio Website 
+Always set the attribute of height in images when adding them to be more website-friendly
+<img src="./assets/images/movie-ranking.png" height="200" 
+
+How to Host Your Website on Hosting on GitHub 
+Adding a readme file is a very important step 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+To understand about HTML tags and code 
